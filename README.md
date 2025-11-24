@@ -2,11 +2,11 @@
 
 # title : Event management
 
-###Abstract:
+### Abstract:
 
 The Event Management System is a simple C-based console application designed to store, display, and search event information. The program allows users to add events with details such as name, date, and venue. The stored events can then be displayed as a list or retrieved through a search by event name. This project demonstrates basic file-less data handling using arrays and structures, along with menu-driven program design in C.
 
-###Functional Requirements:
+### Functional Requirements:
 
 1. Add Event
 
@@ -48,7 +48,7 @@ Input should be validated for incorrect menu choices.
 
 The program should terminate safely when the user selects Exit.
 
-###Features:
+### Features:
 
 Add events (up to 50)
 
@@ -70,7 +70,7 @@ In-memory storage
 
 All data is stored in runtime using arrays (no files).
 
-###How to Run the Project:
+### How to Run the Project:
 
 Steps:
 
@@ -102,7 +102,7 @@ Search Events
 
 Exit.
 
-###Screenshots:
+### Screenshots:
 
 since this is a consloe-based program,here are sample screenshots reprensented as terminal output:
 
